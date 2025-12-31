@@ -1,9 +1,0 @@
-DotNitron Technologies (Delhi based startup) - remote 
-
-Profile: Backend Python Developer (AI Focus)
-CTC: 4L-5L
-
-Round 1:
-You have 15 minutes to build an app with a single POST /process endpoint, implementing per-user rate-limiting (5 calls/min), 
-result caching, and a simulated 1 sec async ‘processing’ (just reverse the text). Return JSON with the reversed text, a cache-hit 
-flag, and how many calls remain. Use Redis (via REDIS_URL).
