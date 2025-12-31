@@ -1,0 +1,3 @@
+1. He asked me to implement solution of "Top N elements in array" using priority_queue.
+2. Implement Priority_queue (Max Heap)
+3. You are given with array of size 100 having 100 numbers in random order. Print every element of that array in ascending order without comparison.
