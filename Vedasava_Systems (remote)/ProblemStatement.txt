@@ -1,3 +1,12 @@
-1. He asked me to implement solution of "Top N elements in array" using priority_queue.
+Round 1 :
+
+0. Intro and discussion about past experience.
+1. Implement solution of "Top N elements in array" using priority_queue.
 2. Implement Priority_queue (Max Heap)
 3. You are given with array of size 100 having 100 numbers in random order. Print every element of that array in ascending order without comparison.
+
+Round 2 :
+General discussion on expectation and business model. Nothing related to knowledge check.
+
+
+Verdict: Selected (But ctc they offered was 6LPA with remote, so declined it)
