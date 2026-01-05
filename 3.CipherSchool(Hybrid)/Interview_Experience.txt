@@ -1,0 +1,10 @@
+Round 1 : Founder's Call (20 min general discussion about background, interests, and why CipherSchools)
+- Discussed my background in computer science and teaching experience
+- Shared my passion for data structures and algorithms
+- Explained why I'm interested in CipherSchools' approach to education
+- Talked about my experience with competitive programming and DSA
+- Founder was impressed with my teaching approach and problem-solving skills
+- Interview went well and I was shortlisted for the next round
+
+Round 2: Online Assessment (Coding test on CodeFri Platform - 1 hour)
+- 3 coding questions to solve
