@@ -1,10 +1,30 @@
-Round 1 : Founder's Call (20 min general discussion about background, interests, and why CipherSchools) - (Jan. 5, 2026)
+Round 1: 
+Founder's Call (20-minute general discussion about background, interests, and why CipherSchools) - (Jan. 5, 2026)
+
 - Discussed my background in computer science and teaching experience
 - Shared my passion for data structures and algorithms
 - Explained why I'm interested in CipherSchools' approach to education
 - Talked about my experience with competitive programming and DSA
-- Founder was impressed with my teaching approach and problem-solving skills
-- Interview went well and I was shortlisted for the next round
+- He asked about compensation expectations and my availability
+- The founder was impressed with my teaching approach and problem-solving skills
+- The interview went well, and I was shortlisted for the next round
 
-Round 2: Online Assessment (Coding test on CodeFri Platform - 1 hour)
-- 3 coding questions to solve
+Round 1 was a formality/screening round and did not test technical knowledge.
+
+---
+
+Round 2: 
+DSA Discussion (40 min) - (Jan. 6, 2026)
+
+This round had two parts. In the first part, he tested my teaching skills as the profile was for a DSA Mentor position.
+He asked me to choose a DSA topic (I chose Linked List) and summarize it within 10-15 minutes.
+
+In the second part, he tested my DSA skills:
+- Asked about the total number of questions I've solved on different platforms, my ratings, and contest participation
+- Gave me LeetCode's "Sort Colors" problem to solve within 20 minutes
+  - Question Link: [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+  - I solved it using the Three Pointer Approach with O(1) space and O(n) time complexity
+  - Performed a dry run and code review
+  - He was quite impressed with the interview
+
+Within 5-10 minutes, I received a message from the recruiter that I had cleared this round, and she asked for my CTC expectations.
