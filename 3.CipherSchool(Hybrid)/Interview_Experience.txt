@@ -12,8 +12,14 @@ Founder's Call (20-minute general discussion about background, interests, and wh
 Round 1 was a formality/screening round and did not test technical knowledge.
 
 ---
+Round 2: Online Assessment
+They Shared me link of OA but when I tried to login and write exam. NOthing was getting shown there. 
+I mailed them and they replied back that they will resolve it.
+Next day, they directly shared me link of next round without writing OA.
+May be it was because of my Leetcode profile.
 
-Round 2: 
+
+Round 3: 
 DSA Discussion (40 min) - (Jan. 6, 2026)
 
 This round had two parts. In the first part, he tested my teaching skills as the profile was for a DSA Mentor position.
