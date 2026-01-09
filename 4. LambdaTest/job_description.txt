@@ -1,0 +1,73 @@
+Backend Engineer (AI Agent Systems- GO/ Python)
+₹8L – ₹25L • No equity
+About the job
+**Backend Engineer (AI Agent Systems)
+
+Location: Noida (In-office)
+
+Experience: 2+ Years (Early-career "High-Hustle" Talent)
+
+Compensations: Competitive + Equity/ESOPs (Based on potential)**
+
+Company
+Avatar for LambdaTest
+LambdaTest
+Location
+Noida
+Remote work policy
+In office
+Job type
+Full Time
+Visa sponsorship
+Not Available
+Relocation
+Allowed
+Experience
+2+ years
+Skills
+Python
+Go (Golang)
+Generative AI
+
+The Mission
+
+We are building the next generation of Autonomous AI Testing Agents. This isn’t just about writing test scripts; it’s about building intelligent, agentic workflows that can navigate mobile apps, understand UI context, and self-heal. We are looking for a backend powerhouse who thrives in the "zero-to-one" phase of a startup and is ready to work at a relentless pace to redefine the QA landscape.
+
+The Role
+
+As an early Backend Engineer, you will be responsible for building the core infrastructure that powers our AI agents. You will design high-concurrency systems in Golang or Python that interface with LLMs and mobile environments.
+
+Key Responsibilities:
+
+Agentic Orchestration: Develop and optimize backend services for AI agentic workflows (planning, execution, and feedback loops).
+Infrastructure: Build robust APIs and microservices that can handle real-time data from mobile device clusters.
+Mobile Integration: Work closely with mobile internals (Android/Appium) to allow AI agents to "see" and "interact" with apps like a human would.
+Scaling: Architect low-latency systems to manage high-volume concurrent agent tasks.
+**What We’re Looking For
+
+Technical DNA:**
+Core Stack: 2+ years of professional experience in Golang or Python. You should be comfortable with high-performance concurrency and asynchronous programming.
+
+AI/Agentic Interest: Prior exposure to LLM frameworks (LangChain, AutoGPT, CrewAI) or building autonomous workflows.
+
+Problem Solving: A "builder" mindset. You don't wait for a spec; you find a way to make it work.
+
+2. The "Start-up" Edge:
+
+High Hustle: You thrive in ambiguity and move faster than the average engineer.
+Startup Pedigree: Preference for candidates from early-stage, fast-paced product startups.
+
+**3. Added Advantages (The Cherry on Top):
+
+Deep knowledge of Appium or Android Internals (ADB, UI Automator, View Hierarchy).
+Experience with containerization (Docker/K8s) and cloud-native deployments.
+Why Join Us?
+
+Direct Impact: You aren't a cog in a machine; you are building the machine itself.
+Cutting Edge: Work at the intersection of Generative AI and Mobile Automation.
+Growth: Rapid career progression as we scale the core engineering team.
+
+How to Apply
+
+If you are someone who spends their weekends tinkering with agents or deep-diving into Android kernels, we want to talk to you.
+Share Your CV at Himanshit@lambdatest.com or connect withme on linkedin: https://www.linkedin.com/in/himanshi-tomer-hr/
