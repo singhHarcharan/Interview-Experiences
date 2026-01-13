@@ -48,8 +48,8 @@ Here's a list of companies included in this repository:
 1. [DotNitron Technologies (Remote)](/1.DotNitron_Technologies%20(remote)/)
 2. [Vedasava Systems (Remote)](/2.Vedasava_Systems%20(remote)/)
 3. [CipherSchool (Hybrid)](/3.CipherSchool(Hybrid)/)
-4. [LambdaTest (In Office)](/4.LambdaTest%20(In%20Office)/)
-5. [Equal Collective (Remote)](/5.Equal%20Collective%20(remote)/)
+4. [LambdaTest (In Office)](./4.%20LambdaTest%20(In%20Office)/)
+5. [Equal Collective (Remote)](./5.%20Equal%20Collective%20(remote)/)
 
 ## 🤝 Contributing
 
