@@ -1,0 +1,10 @@
+Round 1 : Founder's Screening round -> Jan 13, 2026
+
+- It was supposed to be a 30-minute call, but the co-founder joined and, without spending any time on 
+introductions or small talk, asked me:
+“Since you graduated in 2024 and did development during college, you’ve seen the era before AI. What 
+has changed in software development? Give me a 5-minute masterclass based on your experience. In what 
+ways has AI changed how we build software?”
+
+I gave a vague answer, and he didn’t seem satisfied. The interview ended within 10 minutes, with him 
+saying that based on this, they would decide on further interviews.
