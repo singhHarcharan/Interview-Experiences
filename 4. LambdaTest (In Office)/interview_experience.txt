@@ -1,6 +1,32 @@
 Round 1: Technical Interview (60 minutes) - (Jan. 10, 2026)
 
-- DSA 
-- Gen AI Exposure
-- Work Experience
-- Resume
+- The interview started with introductions.
+
+- I was asked about the most complex problem I have solved during my 1.5 years of experience in the tech industry.
+
+- We then discussed my past experience in detail, during which I explained the complete flow of TechMate AI (an Amdocs product) using a flowchart.
+
+- He asked several questions related to TechMate AI and presented multiple scenario-based questions around it.
+
+- After that, he gave me a DSA problem, which I solved within 15 minutes, along with a clear explanation. He was quite impressed with the solution.
+
+Question Link:
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
+- He explicitly mentioned that this was the best problem-solving interview he had conducted so far, based on my approach, clarity of thought, and explanation.
+
+- Next, he started a discussion on system design, which was unexpected for me since I had not formally prepared for system design.
+
+- He asked a scenario-based question:
+How would you design a notification system for a Twitter hashtag?
+I explained my approach by defining conditions under which notifications should be triggered. The conditions were based on:
+
+The number of posts associated with a particular hashtag
+
+The time interval during which those posts were published
+
+- He then asked another scenario-based question about handling downtime in a system receiving 1 million requests per second.
+
+- I explained my approach by proposing a distributed system, where requests are delegated across multiple servers. I suggested deploying the new version on a separate system, gradually switching traffic to it, and once all requests on the old system are completed, starting deployment on the old system.
+
+- At the end, I asked for feedback. He mentioned that my problem-solving and DSA skills are extremely strong and reiterated that this was the best problem-solving interview he had taken so far. However, he also noted that I need to improve in development and system design.
