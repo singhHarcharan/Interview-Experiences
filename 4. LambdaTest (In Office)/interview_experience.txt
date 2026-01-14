@@ -16,5 +16,7 @@ I explained my approach by defining conditions under which notifications should 
     The number of posts associated with a particular hashtag
     The time interval during which those posts were published
 - He then asked another scenario-based question about handling downtime in a system receiving 1 million requests per second.
-- I explained my approach by proposing a distributed system, where requests are delegated across multiple servers. I suggested deploying the new version on a separate system, gradually switching traffic to it, and once all requests on the old system are completed, starting deployment on the old system.
-- At the end, I asked for feedback. He mentioned that my problem-solving and DSA skills are extremely strong and reiterated that this was the best problem-solving interview he had taken so far. However, he also noted that I need to improve in development and system design.
+- I explained my approach by proposing a distributed system, where requests are delegated across multiple servers. I suggested deploying the new version 
+on a separate system, gradually switching traffic to it, and once all requests on the old system are completed, starting deployment on the old system.
+- At the end, I asked for feedback. He mentioned that my problem-solving and DSA skills are extremely strong and reiterated that this was the best 
+problem-solving interview he had taken so far. However, he also noted that I need to improve in development and system design.
