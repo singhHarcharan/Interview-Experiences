@@ -10,7 +10,7 @@
 ### Interview Flow
 
 #### Initial Conversation
-The interview began with a casual conversation where the founder asked about my background. He shared that the company's first 
+The interview began with a casual conversation where the founder asked about my background (Where am i from originally?). He shared that the company's first 
 Data Scientist was also from Punjab, which created a comfortable atmosphere. The discussion was relaxed and pressure-free, with 
 the founder demonstrating strong leadership qualities.
 
