@@ -36,3 +36,32 @@ I took the opportunity to ask about:
 ### Outcome
 The feedback was positive, and I was informed that my profile would be shared for the next round, which would likely be a technical 
 interview with their Engineering Manager/Architect.
+
+
+
+## Round 2: Technical Interview with Senior Developer (30 minutes) - February 1, 2026
+
+### Interview Flow
+1. **Introduction**
+   - Brief self-introduction
+   - Discussion about my projects with follow-up questions
+
+2. **Technical Questions**
+   - **System Design**: What happens when you type www.google.com in a browser?
+   - **Security**: Explain the difference between Authentication and Authorization
+   - **Programming Concepts**:
+     - What is async programming? Why do we use it?
+     - What are the potential issues with async programming?
+   - **Data Validation**:
+     - What is input validation?
+     - Is it required at the frontend or backend?
+   - **Concurrency**: What happens when two users try to update the same record simultaneously?
+   - **Troubleshooting**:
+     - How would you handle a bug that appears in production but not in staging/development?
+     - How would you debug a frontend issue when the backend is returning correct data?
+   - **Problem-Solving**:
+     - What was the most recent technical concept that initially confused you but made sense later?
+     - How would you solve problems without access to ChatGPT and Stack Overflow?
+
+### Feedback
+Received positive feedback with constructive suggestions for improvement.
