@@ -37,7 +37,7 @@
 ## Code Examples
 *[Code examples are included in the file for reference]*
 
-## Code Reference
+## Code Examples
 
 ### 1. Array Manipulation
 ```javascript
@@ -71,11 +71,10 @@ function getTotalPendingAmount(pendingOrder) {
 const pendingOrder = getPendingOrder(orders);
 const totalPendingAmount = getTotalPendingAmount(pendingOrder);
 console.log("Total Pending Amount is ", totalPendingAmount);
+```
 
-
-============================================================================
-
-
+### 2. Asynchronous JavaScript
+```javascript
 // Using setTimeout
 setTimeout(function() {
   console.log("Hi Harcharan...");
@@ -95,12 +94,10 @@ async function greetHarcharan() {
 console.log("Start of setTimeout...");
 await greetHarcharan();
 console.log("Async operation completed");
+```
 
-
-
-============================================================================
-
-
+### 3. React Counter Component
+```jsx
 import React, { useState, useEffect } from 'react';
 
 function App() {
@@ -131,8 +128,4 @@ function InputComponent() {
 }
 
 export default App;
-
-
-
-
-
+```
