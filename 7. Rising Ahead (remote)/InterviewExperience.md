@@ -65,3 +65,5 @@ interview with their Engineering Manager/Architect.
 
 ### Feedback
 Received positive feedback with constructive suggestions for improvement.
+
+### Verdict: Rejected
