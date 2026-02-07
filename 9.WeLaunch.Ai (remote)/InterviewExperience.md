@@ -46,3 +46,37 @@
 
 ## Final Thoughts
 The interviewers were particularly impressed with my explanation skills and problem-solving approach. The discussion was engaging and focused on practical system design challenges.
+
+
+## Round 2: Non-Technical / Leadership Interview
+**Duration**: 40 minutes  
+**Date**: February 7, 2026
+
+### Interview Focus
+- Leadership skills evaluation
+- Team management experience
+- Scenario-based problem solving
+- Project management experience
+- Career journey discussion
+- Salary expectations
+
+### Discussion Points
+- **Professional Journey**:
+  - Educational background
+  - Work experience at UPAAV (startup) and Amdocs
+  - Key learnings and growth
+
+- **Leadership & Team Management**:
+  - Scenario-based questions about handling team challenges
+  - Experience with team leadership and coordination
+  - Project management tools experience (Atlassian Jira)
+  - Learnings from working closely with Co-Founders
+
+- **Compensation Discussion**:
+  - Current salary: 6.5 LPA
+  - Other offer: 12.5 LPA (Vedasva Systems Ltd.) with joining date of February 17, 2026
+  - Expected salary: 15-18 LPA
+
+### Next Steps
+- Technical assignment to be received by midnight
+- Final HR round for salary negotiation after assignment submission
