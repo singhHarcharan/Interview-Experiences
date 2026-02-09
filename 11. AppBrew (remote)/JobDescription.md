@@ -1,6 +1,7 @@
 # Associate Software Engineer
 
 *Location: Remote | Type: Full-time*
+*CTC: 10-12 LPA*
 
 About the company:
 
