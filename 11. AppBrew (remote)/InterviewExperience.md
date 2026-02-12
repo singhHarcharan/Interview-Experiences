@@ -131,3 +131,55 @@ export default App;
 ```
 
 #### Feeback (Feb. 9, 2026) : Got Positive reponse from recruiter and call for Second round. She told me to brush up React / Theoretical concepts as there is a scope of improvement But because I was able to solve problems given to me, so they called me for Second round.
+
+
+
+# Round 3 – Technical interview (with Co founder) (1 hour) - Feb 11, 2026
+
+This was my **third round of interview**, focused on **CSS fundamentals (Flexbox)** and **React state management**.
+
+---
+
+## CSS Challenge
+
+### Requirements
+
+- Create a **3 × 3 grid** with a total size of **300px × 300px**
+  - This size applies to the **entire grid**, not individual cells
+- Each cell must have:
+  - `1px` solid **black border**
+- **Column layout**
+  - Cells in the **2nd column** should be **twice the width** of the other two columns
+- **Row layout**
+  - Cells in the **2nd row** should be **twice the height** of the other two rows
+- **Constraints**
+  - Use **Flexbox only**
+  - ❌ Do **not** use fixed `width` or `height` on individual cells
+  - ✅ Use **flex properties** to control sizing
+
+---
+
+## React Challenge
+
+### Task
+
+Create a **counter component** with the following functionalities:
+
+- ➕ **Plus button** to increment the count
+- ➖ **Minus button** to decrement the count
+- ⏱️ The count should **automatically increase by 1 every second**
+- ⏸️ Ability to **pause** the counter
+- ▶️ Ability to **resume** the counter
+- 🔄 Ability to **reset** the counter to its initial value
+
+---
+
+### Key Concepts Evaluated
+
+- CSS Flexbox layout control
+- React state management
+- `useEffect` and intervals
+- Handling side effects and cleanup
+- UI control logic (pause, resume, reset)
+
+---
