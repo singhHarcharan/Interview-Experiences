@@ -80,3 +80,8 @@ The interviewers were particularly impressed with my explanation skills and prob
 ### Next Steps
 - Technical assignment to be received by midnight
 - Final HR round for salary negotiation after assignment submission
+
+
+
+## Round 3 : Assignment (last round)
+- Solved assignment i.e. ChatGPT clone and submitted it before time, still got to know HR is not going to proceed with me coz they have got some candidate at lower CTC 
